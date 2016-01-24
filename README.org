@@ -1,0 +1,11 @@
+* Haskell Sim900 Cell modem implementation for a rasberry pi.
+
+* Directory structure
+#+BEGIN_EXAMPLE
+.
+├── README.org --This File
+└── sim900-cellmodem-driver the driver submodule for a sim900
+
+   
+
+#+END_EXAMPLE
