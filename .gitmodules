@@ -1,0 +1,3 @@
+[submodule "sim900-cellmodem-driver"]
+	path = sim900-cellmodem-driver
+	url = https://github.com/smurphy8/sim900-cellmodem-driver.git
