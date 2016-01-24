@@ -3,9 +3,12 @@
 * Directory structure
 #+BEGIN_EXAMPLE
 .
-├── README.org --This File
-└── sim900-cellmodem-driver the driver submodule for a sim900
-
-   
-
+├── README.org                                    -- This Document
+├── sim900-cellmodem-driver                       -- The haskell sim900 driver package
+│ 
+└── whitepapers                                   -- Whitepapers defining the spec
+    ├── gsm-spec.pdf                              -- General AT format for GSM 07.07
+    ├── SIM900_AT Command Manual_V1.11.pdf        -- SIM900 Specific AT 
+    └── SIM900_TCPIP_Application Note_V1.02.pdf   -- Implementing a TCP/IP Stack on top of the modem spec
+ 
 #+END_EXAMPLE
